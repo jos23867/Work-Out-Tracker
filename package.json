@@ -1,0 +1,29 @@
+{
+  "name": "work-out-tracker",
+  "version": "1.0.0",
+  "description": "Users will be able to view create and track daily workouts. Be able to log multiple exercises in a workout on a given day. Should also be able to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, users should be able to track distance",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "watch": "nodemon server.js",
+    "seed": "node seeders/seed.js"
+  },
+  "author": "Jose J. Guerrero",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.6.9",
+    "mongoose": "^5.12.14",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jos23867/Work-Out-Tracker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jos23867/Work-Out-Tracker/issues"
+  },
+  "homepage": "https://github.com/jos23867/Work-Out-Tracker#readme"
+}
