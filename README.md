@@ -23,9 +23,9 @@ Workout-Tracker provides the user with plenty of functionality to help them reac
 
 Currently this project is deployed [here](https://git.heroku.com/murmuring-garden-21550.git), but can also be ran locally if you so desire.
 ### <a name="Screenshots"></a>Screenshots
-![Past_stats](https://github.com/jos23867/Work-Out-Tracker/blob/main/screenshots/Historic_stats.png)
-![Entering_lift](https://github.com/jos23867/Work-Out-Tracker/blob/main/screenshots/New_lift.png)
-![Stats_page](https://github.com/jos23867/Work-Out-Tracker/blob/main/screenshots/Dash_page.png)
+![Historic_stats](https://github.com/jos23867/Work-Out-Tracker/blob/main/screenshots/Historic_stats.png)
+![New_lift](https://github.com/jos23867/Work-Out-Tracker/blob/main/screenshots/New_lift.png)
+![SDash_page](https://github.com/jos23867/Work-Out-Tracker/blob/main/screenshots/Dash_page.png)
 ### <a name="Installation"></a>Installation
 Users can view the deployed project [here](heroku link). If you intend to iterate on the project, besides downloading the repo to your machine, be sure to run `npm i` in the root directory and to also have MongoDB installed and ready.
 ### <a name="Usage"></a>Usage
